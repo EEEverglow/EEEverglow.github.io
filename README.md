@@ -14,6 +14,6 @@
 - Feel Free to email me: ybding0712@gmail.com
 
 ### Links
-[kyshan 我的爱人](https://dnspod.qcloud.com/static/webblock.html?d=shankeyi.com).
+[kyshan 我的宝贝](https://dnspod.qcloud.com/static/webblock.html?d=shankeyi.com).
 
 一个人真正的幸福并不是待在光明之中。从远处凝望光明，朝它奋力奔去，就在那拼命忘我的时间里，才有人生真正的充实。  ——安藤忠雄
