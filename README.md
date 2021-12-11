@@ -1,7 +1,7 @@
 ## 欢迎访问小丁的个人空间！
 
 **有静气然后能谋略**
-![](/Users/apple/Pictures/手机截图/Screenshot_20190629_152854.jpg)
+![Image](/Users/apple/Pictures/手机截图/Screenshot_20190629_152854.jpg)
 
 
 ### 请继续参观！
