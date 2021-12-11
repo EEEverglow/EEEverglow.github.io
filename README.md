@@ -1,19 +1,15 @@
 ## 欢迎访问小丁的个人空间！
 
-You can use the [editor on GitHub](https://github.com/EEEverglow/EEEverglow.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**有静气然后能谋略**
+一个人真正的幸福并不是待在光明之中。从远处凝望光明，朝它奋力奔去，就在那拼命忘我的时间里，才有人生真正的充实。  ——安藤忠雄
 
 ### 请继续参观！
 
-这个人正在努力改掉自己废话多的毛病
-
+这个人正在努力改自己的各种毛病！
+![Image](/Users/apple/Pictures/摩登绘手/IMG_20190121_183158.jpg)
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Useful Links
+[My darling Sky](https://dnspod.qcloud.com/static/webblock.html?d=shankeyi.com).
 
 - Bulleted
 - List
