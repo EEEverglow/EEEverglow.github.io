@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎访问小丁的个人空间！
 
 You can use the [editor on GitHub](https://github.com/EEEverglow/EEEverglow.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 请继续参观！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这个人正在努力改掉自己废话多的毛病
 
 ```markdown
 Syntax highlighted code block
