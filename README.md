@@ -3,7 +3,7 @@
 **有静气然后能谋略**
 
 ![Image](https://github.com/EEEverglow/IMAGE/blob/main/2019-01-21%2012.23.46%201.jpg?raw=true)
-
+非常想去香港中文大学念书
 
 ### 请继续参观！
 
