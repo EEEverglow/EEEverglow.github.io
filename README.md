@@ -1,14 +1,15 @@
 ## 欢迎访问小丁的个人空间！
 
 **有静气然后能谋略**
+
 ![Image](/Users/apple/Pictures/手机截图/Screenshot_20190629_152854.jpg)
 
 
 ### 请继续参观！
 
-- BSc of Electrical Engineering in [XJTU](http://ee.xjtu.edu.cn/).
-- Current Research Interests: Integrated Energy System, Optimization, Smart Grid, Operation of Renewable Penetrated Power System.
-- Address: Xi'an Jiaotong University, Beilin District, Xi'an, Shaanxi, China
+- BSc of **Electrical Engineering** in [XJTU](http://ee.xjtu.edu.cn/).
+- **Current Research Interests**: Integrated Energy System, Optimization, Smart Grid, Operation of Renewable Penetrated Power System.
+- **Address**: Xi'an Jiaotong University, Beilin District, Xi'an, Shaanxi, China
 - Feel Free to email me: ybding0712@gmail.com
 
 ```markdown
